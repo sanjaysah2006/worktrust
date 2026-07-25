@@ -1,0 +1,6 @@
+{
+  "name": "WorkTrust",
+  "description": "Secure Decentralized Freelancing Platform with Smart Contract Escrow and On-Chain Milestones",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
