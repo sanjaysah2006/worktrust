@@ -36,9 +36,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarContent">
           <ul className="navbar-nav ms-auto align-items-lg-center">
             <li className="nav-item">
-              <Link className="nav-link" to="/">
-                Home
-              </Link>
+              
             </li>
 
             {!loading && !user && (
